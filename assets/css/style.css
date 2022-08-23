@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* consolidated some elements' attributes */
 body {
     background-color: #d9dcd6;
 }
@@ -32,6 +32,7 @@ nav {
     font-size: 20px;
 }
 
+/* ensured nav bar is horizontal and not bulleted */
 ul {
     list-style-type: none;
 }
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /* hero image attributes and relative link */
 .hero-image {
     height: 800px;
     width: 100%;
@@ -74,7 +75,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styled aside to stay on the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -85,7 +86,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* section class attributes for each */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -95,13 +96,13 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* align img in benefit class */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* titles class attributes */
 .titles {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,7 +121,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling to center elements */
 footer {
     padding: 30px;
     clear: both;

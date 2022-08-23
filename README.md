@@ -2,7 +2,7 @@
 
 Title: Code Refractor 
 
-[Click here to visit!]()
+[Click here to visit!](https://kjman26.github.io/code_refractor/)
 
 ![Screenshot](./assets/images/screenshot_01_Challenge.png)
 
